@@ -1,0 +1,2 @@
+Data Analytics Result: Average income for female: 28646.318233333317Average income for male: 27225.827199999996Number of Females with Mortgage and Savings Account: 71Rural region Male with 1 Child: 13Suburban region Male with 1 Child: 7Town region Male with 1 Child: 15Innercity region Male with 1 Child: 35Cur dt=2018/03/04 19:36:15
+Programmed by Tenzin Choeying
